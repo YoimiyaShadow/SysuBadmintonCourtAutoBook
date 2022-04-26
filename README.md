@@ -14,8 +14,8 @@
 
     netid = 'xxx'#NetID  
     password = 'xxxxx'#密码  
-    bookdate = '2018-07-27'#预定日期（请严格按照格式填入     
-    playtime = '17:01-18:00'#预定时间段（请严格按照格式填入     
+    bookdate = '2022-04-05'#预定日期（请严格按照格式填入     
+    playtime = '09:01-10:00'#预定时间段（请严格按照格式填入     
  
 2. 在config中填入自己的百度翻译api    
 3. 默认目录为C:\sysubook\   
