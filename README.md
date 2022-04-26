@@ -19,7 +19,7 @@
  
 2. 在config中填入自己的百度翻译api    
 3. 默认目录为C:\sysubook\   
-4. 如预订其他校区，请搜索“南校园”并自行替换
+4. 如预订其他校区，请搜索“南校园”、“show.html?id=61”并自行替换字符和id
 5. Edgedriver请见：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 6. Python环境配置请自行百度
 
